@@ -3,7 +3,11 @@ In this project, I tested whether there was a statistically significant differen
 
 The health data files (2011-2014.rds and 2015-2018.rds) are a collection of phone polls from the Behavioral Risk Factor Surveillance System. Each row represents a voluntary participant in the phone poll that asked an upwards of 450 questions. The participant could end the call at any time or opt out of a question. These files are filtered to only look at the columns of interest.
 
+Statistical tests are in stats jupyter notebook. A summary of the results are detailed in _
+
 —————————————————————————————————————————————
+Variable naming conventions:
+
 
 Columns filtered in the dataset: 'xstate', 'genhlth', 'hlthpln1', 'numadult', 'race', 'income2', 'physhlth', 'poorhlth', 'persdoc2', 'checkup1', 'exerany2', 'sex', 'educa', 'numadult.1', 'children', 'employ', 'flushot5', 'howlong', 'lastpap2', 'lastsig3', 'hadsigm3', 'xhcvu651', 'medcost', 'year', 'drvisits', 'medscost'
 
@@ -61,5 +65,3 @@ x. drvisits- How many times have you been to a doctor, nurse, or other health pr
 
 y. medscost- Not including over-the-counter (OTC) medications, was there a time in the past 12 months when you did not take your medication as prescribed because of cost?( 1 = yes, 2 = no, 3 = no medication was prescribed, 7 = not sure, 9 = refused)
 
-—————————————————————————————————————————————
-Statistical tests are in stats jupyter notebook.
