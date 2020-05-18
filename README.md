@@ -1,0 +1,2 @@
+# BRFSS
+In this project, I tested whether there was a statistically significant difference in preventative care options for low income Americans after the Affordable Care Act (ACA) was implemented. I scraped data from the Behavioral Risk Factor Surveillance System (BRFSS), which is the largest continuously-conducted health survey in the world. I tested if the ACA increased low-income residents' access to preventative care using the following metrics: healthcare coverage, cost barrier to seeking medical help, self-reported health, and checkup frequency.
