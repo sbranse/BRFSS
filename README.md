@@ -3,7 +3,7 @@ In this project, I tested whether there was a statistically significant differen
 
 The health data files (2011-2014.rds and 2015-2018.rds) are a collection of phone polls from the Behavioral Risk Factor Surveillance System. Each row represents a voluntary participant in the phone poll that asked an upwards of 450 questions. The participant could end the call at any time or opt out of a question. These files are filtered to only look at the columns of interest.
 
-Statistical tests are in stats jupyter notebook. A summary of the results are detailed in _
+Statistical tests are in stats jupyter notebook. A summary of the results are detailed in the results pdf.
 
 —————————————————————————————————————————————
 Variable naming conventions:
